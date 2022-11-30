@@ -25,10 +25,10 @@ Change config at `.prettierrc`
 
 ## Scripts
 
-``
+```js
 npm run vite // starts dev server
 npm run build // build your lib
 npm run preview // preview build
 npm run lint // lint and fix all files
 npm run format // run prettier on all files
-``
+```
